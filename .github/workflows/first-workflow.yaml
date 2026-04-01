@@ -22,4 +22,4 @@ jobs:
       - name: echo a string
         run: write-output "Hello, World! windows string"
       - name: Error command
-        run: doesnotexist
+        run: doesnotexists
